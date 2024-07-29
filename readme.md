@@ -7,3 +7,4 @@ English Roadmap - пошаговое изучение английского.
 # Начальный уровень
 
 - [Как рассказать о себе](./roadmap/beginner/100_about_yourself.md)
+- [Как рассказать о своей работе и повседневных занятиях](./roadmap/beginner/101_about_your_job.md)
