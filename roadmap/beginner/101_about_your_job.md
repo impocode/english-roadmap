@@ -16,7 +16,7 @@
 |     I     |    am   | a doctor |
 |    You    |    are  | a doctor |
 | He/She/It |    is   | a doctor |
-|  We/They  |    are  | doctors |
+|  We/They  |    are  | doctors  |
 
 ## Ключевые слова inside / outside
 
