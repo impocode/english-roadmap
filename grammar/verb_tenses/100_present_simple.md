@@ -5,11 +5,11 @@
 | I work every day.<br>Я работаю каждый день.     | I don't work every day.<br>Я не работаю каждый день.      | Do you work every day?<br>Работешь ли ты каждый день? |
 | He works every day.<br>Он работает каждый день. | He doesn't work every day.<br>Он не работает каждый день. | Does he work every day?<br>Он работает каждый день?   |
 | I/You/We/They + V + ...                         | S + do/does + not + V + ...                               | Do/Does + S + V + ... ?                               |
-| He/She/It + Vs + ...                            | do not = don't/does not = doesn't                         | QW + do/does + S + V + ... ?                          |
+| He/She/It + Vs + ...                            | do not = don't<br>does not = doesn't                      | QW + do/does + S + V + ... ?                          |
 
-S – подлежащее;
-Vs – смысловой глагол с окончанием -es или -s;
-V – смысловой глагол без чатицы to;
+S – подлежащее;<br>
+Vs – смысловой глагол с окончанием -es или -s;<br>
+V – смысловой глагол без чатицы to;<br>
 QW – question word (вопросительное слово).
 
 ### Утверждение
